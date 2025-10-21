@@ -1,0 +1,9 @@
+{
+  "name": "agentsync-example-typescript",
+  "version": "1.0.0",
+  "description": "Example AgentSync library for TypeScript projects with strict mode, testing, and API design best practices",
+  "namespace": "typescript-example",
+  "author": "AgentSync Team",
+  "tags": ["typescript", "strict-mode", "testing", "api-design"],
+  "minimumAgentSyncVersion": "0.3.0-beta"
+}

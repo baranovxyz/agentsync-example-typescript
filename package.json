@@ -1,0 +1,33 @@
+{
+  "name": "@agentsync/example-typescript",
+  "version": "1.0.0",
+  "description": "Example AgentSync library for TypeScript projects",
+  "keywords": [
+    "agentsync",
+    "typescript",
+    "coding-standards",
+    "ai-tools",
+    "cursor",
+    "claude"
+  ],
+  "homepage": "https://github.com/baranovxyz/agentsync-example-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/baranovxyz/agentsync-example-typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baranovxyz/agentsync-example-typescript.git"
+  },
+  "license": "MIT",
+  "author": "baranovxyz",
+  "files": [
+    "rules/",
+    "commands/",
+    "mcp.json",
+    ".agentsync/library.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
